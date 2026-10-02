@@ -279,6 +279,13 @@ lib/firebase_options.dart
 ```bash
 flutter run
 ```
+## 📎 專題成果資料
+
+- 🎬 [Demo 影片](./project-materials/03_final.mp4)
+- 📊 [專題簡報](./project-materials/03_PRJ_FINAL_id.pptx)
+- 📄 [期末專題報告](./project-materials/03_2026期末專案.docx)
+
+> Demo 影片檔案較大，若 GitHub 無法直接預覽，可下載後觀看。
 
 ## 👥 專案性質
 
