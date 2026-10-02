@@ -1,6 +1,6 @@
 # 探索諸羅 Explore Chiayi 🦃
 
-「探索諸羅（Explore Chiayi）」是一款以 **Flutter** 開發的嘉義旅遊行動應用程式，目標是整合分散的景點、美食、交通與旅遊資訊，讓使用者可以在單一 App 中完成旅遊資訊查詢與行程規劃。
+探索諸羅（Explore Chiayi）是一款以 **Flutter** 開發的嘉義旅遊行動應用程式，目標是整合分散的景點、美食、交通與旅遊資訊，讓使用者可以在單一 App 中完成旅遊資訊查詢與行程規劃。
 
 本專案整合 **Firebase、中央氣象署、TDX 運輸資料、OpenStreetMap 與 Google Gemini AI**，提供即時天氣、景點與美食探索、公共運輸資訊、自訂行程以及 AI 智慧旅遊規劃等功能。
 
@@ -309,9 +309,3 @@ flutter run
 - StreamBuilder 與 FutureBuilder
 - API Key 與環境變數管理
 - 多來源資料整合與 UI 設計
-
-## 📌 Project
-
-**Explore Chiayi — 探索諸羅**
-
-Mobile Application Development Final Project
